@@ -1,0 +1,13 @@
+db.sqlite3
+venv/
+*.sqlite3
+.project
+.pydevproject
+*.pyc
+*.idea/
+.env
+*.log
+*.log.*
+.coverage
+htmlcov/
+staticfiles/
